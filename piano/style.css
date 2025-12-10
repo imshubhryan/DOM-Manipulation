@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: #fff;
+    font-family: monospace;
+    background-color: black;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(110, 109, 109);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+
+}
